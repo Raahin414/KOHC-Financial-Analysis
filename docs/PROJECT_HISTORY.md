@@ -25,3 +25,7 @@ Saved dividend-verification stage. Genuine zero yields remain numeric and includ
 ## 6. history: import removal of vertical and horizontal analysis
 
 Saved structural cleanup of the submission workbook. The internal Audit retains historical verification records.
+
+## 7. history: import 54 ratio charts and centralized methodology notes
+
+Saved stage with one five-company and one KOHC-versus-sample-average chart for each of 27 measures; repetitive company-sheet notes were centralized.
