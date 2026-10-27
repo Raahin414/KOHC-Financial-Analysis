@@ -13,3 +13,7 @@ Saved market-verification stage. The contemporary summary explicitly limits its 
 ## 3. history: import full financial audit and 33-measure model
 
 Saved full-audit stage before the later textbook-aligned scope change. The final project does not retain 33 measures.
+
+## 4. history: import forensic reconciliation and textbook-aligned 27 measures
+
+Transition to 27 selected measures, including all 19 mandatory ratios. The Audit preserves the earlier 63-case forensic investigation and current published-value reconciliation records.
