@@ -1,0 +1,30 @@
+,,,,,,,,,,,,,,
+Verified FY-end PSX closing prices,,,,,,,,,,,,,,
+25 unadjusted CLOSE observations. Report conversion is a cross-check only. The PSX price in column E is the market input. All dates are on or before 30 June.,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Company,FY,FY-end,Trading date,PSX close (Rs),Report price (Rs),Report-to-date factor,Report on date basis (Rs),PSX less report (Rs),Cross-check,Session selection,Report EPS (Rs),Report BVPS (Rs),Report DPS (Rs),Report WAVG (m)
+KOHC,2021,2021-06-30 00:00:00,2021-06-30 00:00:00,206.49,41.3,5,206.5,-0.009999999999990905,Agrees within report rounding,30 June trading session,3.48,22.13,0,1004.306485
+KOHC,2022,2022-06-30 00:00:00,2022-06-30 00:00:00,130.13,26.03,5,130.15,-0.020000000000010232,Agrees within report rounding,30 June trading session,5,27.13,0,1004.306485
+KOHC,2023,2023-06-30 00:00:00,2023-06-27 00:00:00,173.47,34.69,5,173.45,0.020000000000010232,Agrees within report rounding,No PSX trading records on 28–30 June; June symbol history ends 27 June.,5.8,32.47,0,1004.306485
+KOHC,2024,2024-06-30 00:00:00,2024-06-28 00:00:00,250.43,49,5,245,5.430000000000007,PSX / report discrepancy,30 June Sunday; 29 June Saturday. Last session 28 June.,9.06,41.84,0,982.175335
+KOHC,2025,2025-06-30 00:00:00,2025-06-30 00:00:00,379.36,75.67,5,378.35,1.009999999999991,PSX / report discrepancy,30 June trading session,11.97,49.58,0,967.1421
+LUCK,2021,2021-06-30 00:00:00,2021-06-30 00:00:00,863.44,172.69,5,863.45,-0.009999999999990905,Agrees within report rounding,30 June trading session,8.7,70.01,0,1616.875
+LUCK,2022,2022-06-30 00:00:00,2022-06-30 00:00:00,459.04,91.81,5,459.05,-0.009999999999990905,Agrees within report rounding,30 June trading session,9.46,79.5,0,1616.875
+LUCK,2023,2023-06-30 00:00:00,2023-06-27 00:00:00,522.09,104.42,5,522.1,-0.009999999999990905,Agrees within report rounding,No PSX trading records on 28–30 June; June symbol history ends 27 June.,8.49,87.67,3.6,1593.745
+LUCK,2024,2024-06-30 00:00:00,2024-06-28 00:00:00,906.73,181.35,5,906.75,-0.01999999999998181,Agrees within report rounding,30 June Sunday; 29 June Saturday. Last session 28 June.,18.91,100.86,3,1486.48
+LUCK,2025,2025-06-30 00:00:00,2025-06-30 00:00:00,355.24,355.24,1,355.24,0,Agrees within report rounding,30 June trading session,22.59,120.08,4,1465
+DGKC,2021,2021-06-30 00:00:00,2021-06-30 00:00:00,117.92,117.92,1,117.92,0,Agrees within report rounding,30 June trading session,8.49,167.71,1,438.119118
+DGKC,2022,2022-06-30 00:00:00,2022-06-30 00:00:00,62.5,62.5,1,62.5,0,Agrees within report rounding,30 June trading session,6.78,159.59,1,438.119118
+DGKC,2023,2023-06-30 00:00:00,2023-06-27 00:00:00,51.3,51.3,1,51.3,0,Agrees within report rounding,No PSX trading records on 28–30 June; June symbol history ends 27 June.,-8.3,146.52,0,438.119118
+DGKC,2024,2024-06-30 00:00:00,2024-06-28 00:00:00,90.27,90.27,1,90.27,0,Agrees within report rounding,30 June Sunday; 29 June Saturday. Last session 28 June.,1.24,173.12,0,438.119118
+DGKC,2025,2025-06-30 00:00:00,2025-06-30 00:00:00,165.56,165.56,1,165.56,0,Agrees within report rounding,30 June trading session,19.8,216.08,2,438.119118
+MLCF,2021,2021-06-30 00:00:00,2021-06-30 00:00:00,46.98,46.98,1,46.98,0,Agrees within report rounding,30 June trading session,5.69,34.18,0,1098.346
+MLCF,2022,2022-06-30 00:00:00,2022-06-30 00:00:00,27.35,27.35,1,27.35,0,Agrees within report rounding,30 June trading session,3.3,36.93,0,1097.524
+MLCF,2023,2023-06-30 00:00:00,2023-06-27 00:00:00,28.33,28.33,1,28.33,0,Agrees within report rounding,No PSX trading records on 28–30 June; June symbol history ends 27 June.,4.18,41.84,0,1073.405
+MLCF,2024,2024-06-30 00:00:00,2024-06-28 00:00:00,38,38,1,38,0,Agrees within report rounding,30 June Sunday; 29 June Saturday. Last session 28 June.,4.98,49.69,0,1058.911
+MLCF,2025,2025-06-30 00:00:00,2025-06-30 00:00:00,84.28,84.28,1,84.28,0,Agrees within report rounding,30 June trading session,16.26,68.22,0,1047.563
+FCCL,2021,2021-06-30 00:00:00,2021-06-30 00:00:00,23,23,1,23,0,Agrees within report rounding,30 June trading session,2.52,16.87,0,1379.815
+FCCL,2022,2022-06-30 00:00:00,2022-06-30 00:00:00,14.17,14.17,1,14.17,0,Agrees within report rounding,30 June trading session,3.02,26.48,0,2353.539
+FCCL,2023,2023-06-30 00:00:00,2023-06-27 00:00:00,11.76,11.76,1,11.76,0,Agrees within report rounding,No PSX trading records on 28–30 June; June symbol history ends 27 June.,3.16,26.57,0,2353.539
+FCCL,2024,2024-06-30 00:00:00,2024-06-28 00:00:00,22.91,22.91,1,22.91,0,Agrees within report rounding,30 June Sunday; 29 June Saturday. Last session 28 June.,3.35,29.92,1,2452.847
+FCCL,2025,2025-06-30 00:00:00,2025-06-30 00:00:00,44.67,44.67,1,44.67,0,Agrees within report rounding,30 June trading session,5.43,34.36,1.25,2452.847

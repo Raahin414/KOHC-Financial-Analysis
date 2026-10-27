@@ -33,3 +33,7 @@ Saved stage with one five-company and one KOHC-versus-sample-average chart for e
 ## 8. presentation: import decluttered workbook and complete financial analysis report
 
 Saved presentation-only revision and comprehensive 41-page Word/PDF report. The reusable decluttering skill and read-only validator are retained. The presentation review explicitly discloses the existing KOHC accrued-markup classification issue.
+
+## 9. presentation: preserve user edits and shorten latest workbook Overview
+
+Latest saved workbook: 5216acd762c8050d1cbdbece42f867b38c358b484b404772170098b583af0f39. Overview notes were shortened; all seven other sheets and the financial model were preserved. Source response HTML and Audit-sheet exports preserve official evidence.

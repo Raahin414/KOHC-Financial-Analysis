@@ -1,0 +1,15 @@
+{
+  "overview_notes_words_before": 712,
+  "overview_notes_words_after": 294,
+  "word_reduction_percent": 58.7,
+  "financial_formulas_and_values_preserved": {
+    "formulas": 3159,
+    "numeric_inputs": 1808,
+    "cached_results": 3159,
+    "reviewed_text_changes": 31
+  },
+  "all_seven_other_sheets_content_and_formatting_unchanged": true,
+  "chart_parts_and_drawings_preserved": 54,
+  "user_edited_original_and_backup_unchanged": true,
+  "overview_print_area": "'Overview'!$A$1:$G$40"
+}

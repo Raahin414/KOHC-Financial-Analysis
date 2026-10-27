@@ -1,0 +1,23 @@
+{
+  "ratios_independently_recomputed": 675,
+  "sample_means_independently_recomputed": 135,
+  "mandatory_measures_retained": 19,
+  "total_measures_retained": 27,
+  "native_charts_retained": 54,
+  "native_series_retained": 189,
+  "native_data_positions_verified": 945,
+  "dividend_observations_verified_against_official_evidence_record": 25,
+  "genuine_zero_dividends": 17,
+  "unexpected_errors": 0,
+  "intentional_chart_gap_NA_cells": 11,
+  "all_FY2020_hidden_columns_retained": true,
+  "obsolete_analysis_sections_absent": true,
+  "category_headers_free_of_calculations": true,
+  "audit_unchanged": true,
+  "original_and_backup_unchanged": true,
+  "hyperlinks_print_areas_and_panes_retained": true,
+  "current_published_comparisons": 455,
+  "numerical_reconstructions": 437,
+  "qualified_published_differences": 18,
+  "known_financial_issue_preserved": "KOHC short-term accrued mark-up remains in IBD; FY2025 3.704884m and FY2024 comparative 0.061253m require qualification."
+}
