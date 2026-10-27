@@ -1,0 +1,14 @@
+{
+  "ratio_results_reproduced_from_existing_inputs": 675,
+  "sample_means_verified": 135,
+  "charts": 54,
+  "series": 189,
+  "dividend_observations_checked_against_existing_official_record": 25,
+  "numeric_zero_dividends": 17,
+  "intentional_chart_gap_errors": 11,
+  "unexpected_errors": 0,
+  "updated_viva_pages": 10,
+  "packaged_file_hashes_verified": 37,
+  "workbooks_unchanged": true,
+  "qualification": "KOHC accrued-markup classification and18 published-value differences remain; arithmetic reproduction is not resolution of these source/classification issues."
+}

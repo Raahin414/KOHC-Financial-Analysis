@@ -43,7 +43,9 @@ With Python and `openpyxl`, `reportlab`, `pypdf` installed:
 python scripts/build_viva_guide.py --workbook workbooks/KOHC_Financial_Analysis_FINAL_SUBMISSION.xlsx --output docs/KOHC_Viva_Guide_Updated_10_Pages.pdf --markdown docs/Viva_Guide.md
 ```
 
-The script reads Excel without saving it. Calibri is used on Windows, with a bundled ReportLab font fallback elsewhere.
+Run `python scripts/verify_submission.py` for read-only arithmetic, average, chart, dividend-record and file-integrity checks. These checks preserve the stated financial qualifications.
+
+The guide script reads Excel without saving it. Calibri is used on Windows, with a bundled ReportLab font fallback elsewhere.
 
 ## Group
 

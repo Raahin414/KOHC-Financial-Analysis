@@ -37,3 +37,7 @@ Saved presentation-only revision and comprehensive 41-page Word/PDF report. The 
 ## 9. presentation: preserve user edits and shorten latest workbook Overview
 
 Latest saved workbook: 5216acd762c8050d1cbdbece42f867b38c358b484b404772170098b583af0f39. Overview notes were shortened; all seven other sheets and the financial model were preserved. Source response HTML and Audit-sheet exports preserve official evidence.
+
+## 10. docs: combine viva guide with company introductions and 17 ratio-driver cases
+
+Updated ten-page guide consolidates all27 formulas and latest peer values, methodologies, accounting caveats, inventory/current-quick gaps, numerator/denominator bridges, profits/tax, merger/split effects and dividend decisions. Source workbooks remain byte-for-byte unchanged.

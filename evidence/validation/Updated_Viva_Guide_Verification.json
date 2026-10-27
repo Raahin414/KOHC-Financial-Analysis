@@ -1,0 +1,21 @@
+{
+  "pages": 10,
+  "ratio_formulas": 27,
+  "company_comparisons": 27,
+  "numbered_cases": 17,
+  "source_workbook_sha256": "5216acd762c8050d1cbdbece42f867b38c358b484b404772170098b583af0f39",
+  "source_workbook_unchanged": true,
+  "output_sha256": "cd8025a08ea657fd89715217f9e3a36dcf6922a725d3e49658df2c2236efdd31",
+  "page_word_counts": [
+    377,
+    397,
+    344,
+    360,
+    338,
+    290,
+    305,
+    332,
+    335,
+    386
+  ]
+}

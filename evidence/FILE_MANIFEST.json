@@ -1,0 +1,154 @@
+{
+  ".agents/skills/financial-workbook-declutter/references/writing-style.md": {
+    "bytes": 1540,
+    "sha256": "9e1728b3facb221a9a680b6b7bdf4fcf8de001d2c743ca3bf51b584a0ffe6e31"
+  },
+  ".agents/skills/financial-workbook-declutter/scripts/validate_workbook.py": {
+    "bytes": 6051,
+    "sha256": "efd742e7d4cdeb82ff132bf79d74cd681fed454cbda4654260955b73fc36c888"
+  },
+  ".agents/skills/financial-workbook-declutter/SKILL.md": {
+    "bytes": 5116,
+    "sha256": "21d62b2265fdf6258a162f12ee1ceef434ec2e0101f0ddbf0614a301e6c79f66"
+  },
+  ".gitattributes": {
+    "bytes": 126,
+    "sha256": "2bc6a0de19365f0ac0eccc7d5fde8578fb411e485f3ada87fec1feb78589d4b6"
+  },
+  ".gitignore": {
+    "bytes": 69,
+    "sha256": "9ec3b72e2bcf7bb53f62465fa9150a49f4d523d391ccabfefde3e1609250e1d4"
+  },
+  "docs/archive/Full_33_Measure_Audit_Summary.md": {
+    "bytes": 22552,
+    "sha256": "6ec37afab4f195e89c55459b10397df406ed20e4631b6e1acb2fe101a9fa47be"
+  },
+  "docs/archive/Market_Verification_Summary.md": {
+    "bytes": 6449,
+    "sha256": "613f9c102133c5f953eaa01155a0783acfc01fdb766f3639a2bd3f9ea28c3033"
+  },
+  "docs/Five_Companies_Detailed_Ratio_Performance_Comparison.pdf": {
+    "bytes": 118011,
+    "sha256": "6a70bdd3c0b20b561198bc5d76f91a837f9bbb63c648d3e115d56f4ab677c74a"
+  },
+  "docs/IBF_KOHC_Ratio_Analysis_Explanation_and_Findings.docx": {
+    "bytes": 117642,
+    "sha256": "c89be6c219083dc7b8ab0fd247e31003d412c913e3735cc421fee7c987692630"
+  },
+  "docs/IBF_KOHC_Ratio_Analysis_Explanation_and_Findings.pdf": {
+    "bytes": 705459,
+    "sha256": "663197183a53eba48a43d0d305677485950f65db923d252f3636294969747c1d"
+  },
+  "docs/KOHC_Viva_Guide_Updated_10_Pages.pdf": {
+    "bytes": 88216,
+    "sha256": "cd8025a08ea657fd89715217f9e3a36dcf6922a725d3e49658df2c2236efdd31"
+  },
+  "docs/Methodology_and_Reconciliation.md": {
+    "bytes": 13641,
+    "sha256": "420399f92509c7bf688d562947f44c89ee058f0c5cdbccaed392c4a0365f2fa0"
+  },
+  "docs/Presentation_Review_Summary.md": {
+    "bytes": 5087,
+    "sha256": "5a9c89267881e2ade174296d2162de25e354941b4e3c95948d70ba5467494990"
+  },
+  "docs/PROJECT_HISTORY.md": {
+    "bytes": 2819,
+    "sha256": "39aa9e78c3ffbff9dcd408ebac7fa9a6102671d9c160ca4c8f091cb82fce207c"
+  },
+  "docs/Viva_Guide.md": {
+    "bytes": 24150,
+    "sha256": "b0b166a4f21f1a924c25540578f8935368cabd96b4dc5bb511dc5432f05439e2"
+  },
+  "evidence/Dividend_Official_Source_Check.json": {
+    "bytes": 12241,
+    "sha256": "44fe2d30c8b0285ab3b3129c71c8fea3ea68675509e0f9189cd091245e04384b"
+  },
+  "evidence/psx/Corporate_Actions.csv": {
+    "bytes": 3904,
+    "sha256": "2b29278e752c260c8f99f458687c85b781d6660cafff768fb589ce67563c7f2a"
+  },
+  "evidence/psx/Price_Evidence.csv": {
+    "bytes": 43668,
+    "sha256": "d02f5004bea4d0b173fe9ada95b90a1bbaa0458c4eaf7847ba0d82240efcc7b9"
+  },
+  "evidence/psx/psx_2021-06-30.html": {
+    "bytes": 327007,
+    "sha256": "a7533f1ddd4bfe985aaa10fe7de6d004e59ddbe860bc5e861d82357f39639f9f"
+  },
+  "evidence/psx/psx_2022-06-30.html": {
+    "bytes": 363647,
+    "sha256": "dd7808b40b462c8056eef6b5d6f32228cdb7ebfb8706e2ff6036ed7ae0c134b7"
+  },
+  "evidence/psx/psx_2023-06-27.html": {
+    "bytes": 360871,
+    "sha256": "2e0eb9557487b380ab4c4b0235b16b477f45778d471df6dfd853dc1e33d23f05"
+  },
+  "evidence/psx/psx_2024-06-28.html": {
+    "bytes": 434157,
+    "sha256": "efc8ea2445cacdcf79405956444140d56bf6dde7848de9b27aeb39b75c5cf4ac"
+  },
+  "evidence/psx/psx_2025-06-30.html": {
+    "bytes": 341994,
+    "sha256": "dc442e1cf6c040e091a7631042e5cafc369e5d192eccdb58b6f105fbb005fee4"
+  },
+  "evidence/psx/PSX_Prices.csv": {
+    "bytes": 4771,
+    "sha256": "3fcbf93598fcb65eff96e139218562e7461f6c0a08cdf0f713d629983c75fe8a"
+  },
+  "evidence/psx/Share_Basis.csv": {
+    "bytes": 9406,
+    "sha256": "b6266bda95fe6c508c92a60f49f3cba546fc2f9e41a70a31c056e788f9d26f1d"
+  },
+  "evidence/psx/Verified_Closing_Prices_Original_Record.json": {
+    "bytes": 2925,
+    "sha256": "1ae760b8563a15d4c2a264a5a15683911448fc774e4cc160b5783d087375c094"
+  },
+  "evidence/SOURCES.md": {
+    "bytes": 1119,
+    "sha256": "5b7cd1b936084450413d07720564ac33a96809c2db4a3dbd2ec30cf45d68bbf9"
+  },
+  "evidence/validation/Comprehensive_Report_Verification.json": {
+    "bytes": 544,
+    "sha256": "61db356e6115022c87373b6f2bc441a1b16a3f1788403c30d6c1169282528e05"
+  },
+  "evidence/validation/Financial_Model_Verification.json": {
+    "bytes": 978,
+    "sha256": "a24883a2d422e3734c84827431b6ae65fd43fb60a5b0b60acfaf44c980dfbdf6"
+  },
+  "evidence/validation/Overview_Cleanup_Verification.json": {
+    "bytes": 487,
+    "sha256": "c8d98d5124f772e5af73b8c2f729c4938b5e5b5d999d68583e6e9817565d1a7d"
+  },
+  "evidence/validation/Repository_Packaging_Verification.json": {
+    "bytes": 570,
+    "sha256": "258f745c1bebbee903d8374f653f56ef3eedc6bcc9bc94687e4a53baaea9ca3e"
+  },
+  "evidence/validation/Updated_Viva_Guide_Verification.json": {
+    "bytes": 432,
+    "sha256": "85e18d76c56a563d01fea9ca928e68f4cc8ee5614c63d4e32d9d5885867b6b4e"
+  },
+  "README.md": {
+    "bytes": 4798,
+    "sha256": "d3a2e6bd106699c5414742a05e6cd70cdff604e187b49e827f0d848645cfe8dc"
+  },
+  "requirements.txt": {
+    "bytes": 40,
+    "sha256": "34ec17d69f55c7af668ae4908166f89287831418eed372d9eae8c635560486aa"
+  },
+  "scripts/build_viva_guide.py": {
+    "bytes": 27996,
+    "sha256": "055e059b9f733708203eab9349d9c31c1aaa327e13f38e17d6f7ab8693f21de7"
+  },
+  "scripts/verify_submission.py": {
+    "bytes": 4319,
+    "sha256": "b0ef776b0becc2e873ddcbf8935e2e6a20005e5542a26f3152626864fed88135"
+  },
+  "workbooks/KOHC_Financial_Analysis_Audit.xlsx": {
+    "bytes": 1465154,
+    "sha256": "2d96d0cd32cf19ba8b9963938efff111e23b5b2fccb0d802b159f53560b576a5"
+  },
+  "workbooks/KOHC_Financial_Analysis_FINAL_SUBMISSION.xlsx": {
+    "bytes": 263778,
+    "sha256": "5216acd762c8050d1cbdbece42f867b38c358b484b404772170098b583af0f39"
+  }
+}

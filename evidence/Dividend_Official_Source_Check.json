@@ -1,0 +1,495 @@
+{
+  "observations": [
+    {
+      "co": "KOHC",
+      "year": 2021,
+      "dps": 0,
+      "price": 206.49,
+      "yield": 0,
+      "cell": "D140",
+      "official_verification": "FY2021 report PDF pp16,29",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "KOHC",
+      "year": 2022,
+      "dps": 0,
+      "price": 130.13,
+      "yield": 0,
+      "cell": "E140",
+      "official_verification": "FY2022 report PDF pp23,37",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "KOHC",
+      "year": 2023,
+      "dps": 0,
+      "price": 173.47,
+      "yield": 0,
+      "cell": "F140",
+      "official_verification": "FY2023 report PDF pp23,37",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "KOHC",
+      "year": 2024,
+      "dps": 0,
+      "price": 250.43,
+      "yield": 0,
+      "cell": "G140",
+      "official_verification": "FY2024 report PDF pp24,43",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "KOHC",
+      "year": 2025,
+      "dps": 0,
+      "price": 379.36,
+      "yield": 0,
+      "cell": "H140",
+      "official_verification": "FY2025 report PDF pp27,53",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "LUCK",
+      "year": 2021,
+      "dps": 0,
+      "price": 863.44,
+      "yield": 0,
+      "cell": "D140",
+      "official_verification": "FY2021 report PDF p132, nil cash DPS and0.00% dividend yield",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "LUCK",
+      "year": 2022,
+      "dps": 0,
+      "price": 459.04,
+      "yield": 0,
+      "cell": "E140",
+      "official_verification": "FY2022 report PDF p158, nil cash DPS and0.00% dividend yield",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "LUCK",
+      "year": 2023,
+      "dps": 18,
+      "price": 522.09,
+      "yield": 0.034476814342354764,
+      "cell": "F140",
+      "official_verification": "FY2023 report PDF pp144,164, final dividend18 per share",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "LUCK",
+      "year": 2024,
+      "dps": 15,
+      "price": 906.73,
+      "yield": 0.016542962072502287,
+      "cell": "G140",
+      "official_verification": "FY2024 report PDF pp143,162, final dividend15 per share",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "LUCK",
+      "year": 2025,
+      "dps": 4,
+      "price": 355.24,
+      "yield": 0.011259993244004052,
+      "cell": "H140",
+      "official_verification": "FY2025 report PDF pp283,376, final dividend4 per share",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "DGKC",
+      "year": 2021,
+      "dps": 1,
+      "price": 117.92,
+      "yield": 0.008480325644504749,
+      "cell": "D140",
+      "official_verification": "FY2021 report PDF p69, DPS1; FY2025 report p108 confirms historical1",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "DGKC",
+      "year": 2022,
+      "dps": 1,
+      "price": 62.5,
+      "yield": 0.016,
+      "cell": "E140",
+      "official_verification": "FY2022 report PDF p95, DPS1; FY2025 report p108 confirms historical1",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "DGKC",
+      "year": 2023,
+      "dps": 0,
+      "price": 51.3,
+      "yield": 0,
+      "cell": "F140",
+      "official_verification": "FY2023 report PDF p115 explicitly no dividend",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "DGKC",
+      "year": 2024,
+      "dps": 0,
+      "price": 90.27,
+      "yield": 0,
+      "cell": "G140",
+      "official_verification": "FY2024 report PDF p115 explicitly no dividend",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "DGKC",
+      "year": 2025,
+      "dps": 2,
+      "price": 165.56,
+      "yield": 0.012080212611741966,
+      "cell": "H140",
+      "official_verification": "FY2025 report PDF pp116,227,322 dividend2",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "MLCF",
+      "year": 2021,
+      "dps": 0,
+      "price": 46.98,
+      "yield": 0,
+      "cell": "D140",
+      "official_verification": "FY2021 report PDF p134, no current-year cash DPS",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "MLCF",
+      "year": 2022,
+      "dps": 0,
+      "price": 27.35,
+      "yield": 0,
+      "cell": "E140",
+      "official_verification": "FY2022 report PDF p155, no current-year cash DPS",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "MLCF",
+      "year": 2023,
+      "dps": 0,
+      "price": 28.33,
+      "yield": 0,
+      "cell": "F140",
+      "official_verification": "FY2023 report PDF p85, no current-year cash DPS",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "MLCF",
+      "year": 2024,
+      "dps": 0,
+      "price": 38,
+      "yield": 0,
+      "cell": "G140",
+      "official_verification": "FY2024 report PDF p163, no current-year cash DPS",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "MLCF",
+      "year": 2025,
+      "dps": 0,
+      "price": 84.28,
+      "yield": 0,
+      "cell": "H140",
+      "official_verification": "FY2025 report PDF p175, no current-year cash DPS",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "FCCL",
+      "year": 2021,
+      "dps": 0,
+      "price": 23,
+      "yield": 0,
+      "cell": "D140",
+      "official_verification": "FY2021 report PDF p153, Reasons for not declaring dividend; FY2025 report p216 confirms historicalnil",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "FCCL",
+      "year": 2022,
+      "dps": 0,
+      "price": 14.17,
+      "yield": 0,
+      "cell": "E140",
+      "official_verification": "FY2022 report PDF p156, no current-year cash DPS; FY2025 report p216 confirms historicalnil",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "FCCL",
+      "year": 2023,
+      "dps": 0,
+      "price": 11.76,
+      "yield": 0,
+      "cell": "F140",
+      "official_verification": "FY2023 report PDF p183 explicitly no cash dividend declared; FY2025 report p216 confirms historicalnil",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "FCCL",
+      "year": 2024,
+      "dps": 1,
+      "price": 22.91,
+      "yield": 0.04364906154517678,
+      "cell": "G140",
+      "official_verification": "FY2024 report PDF p92, proposal1 per share; FY2025 report p216 confirms historical1",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    },
+    {
+      "co": "FCCL",
+      "year": 2025,
+      "dps": 1.25,
+      "price": 44.67,
+      "yield": 0.027982986344302664,
+      "cell": "H140",
+      "official_verification": "FY2025 report PDF pp98,216,317 dividend1.25",
+      "verification": "Confirmed under existing dividend-for-financial-year convention"
+    }
+  ],
+  "zeros": [
+    {
+      "co": "KOHC",
+      "year": 2021,
+      "id": 26,
+      "cell": "D140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "KOHC",
+      "year": 2022,
+      "id": 26,
+      "cell": "E140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "KOHC",
+      "year": 2023,
+      "id": 26,
+      "cell": "F140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "KOHC",
+      "year": 2024,
+      "id": 26,
+      "cell": "G140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "KOHC",
+      "year": 2025,
+      "id": 26,
+      "cell": "H140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "LUCK",
+      "year": 2021,
+      "id": 26,
+      "cell": "D140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "LUCK",
+      "year": 2022,
+      "id": 26,
+      "cell": "E140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "DGKC",
+      "year": 2023,
+      "id": 26,
+      "cell": "F140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "DGKC",
+      "year": 2024,
+      "id": 26,
+      "cell": "G140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "MLCF",
+      "year": 2021,
+      "id": 26,
+      "cell": "D140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "MLCF",
+      "year": 2022,
+      "id": 26,
+      "cell": "E140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "MLCF",
+      "year": 2023,
+      "id": 26,
+      "cell": "F140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "MLCF",
+      "year": 2024,
+      "id": 26,
+      "cell": "G140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "MLCF",
+      "year": 2025,
+      "id": 26,
+      "cell": "H140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "FCCL",
+      "year": 2021,
+      "id": 26,
+      "cell": "D140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "FCCL",
+      "year": 2022,
+      "id": 26,
+      "cell": "E140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    },
+    {
+      "co": "FCCL",
+      "year": 2023,
+      "id": 26,
+      "cell": "F140",
+      "format": "0.00%;\\(0.00%\\);\"-\""
+    }
+  ],
+  "nm": [
+    [
+      "DGKC",
+      2021,
+      4,
+      -3444.255999999994,
+      1
+    ],
+    [
+      "DGKC",
+      2022,
+      4,
+      -5275.868000000002,
+      1
+    ],
+    [
+      "DGKC",
+      2023,
+      4,
+      -9649.124000000003,
+      1
+    ],
+    [
+      "DGKC",
+      2023,
+      17,
+      -3635.9759999999997,
+      64983.821
+    ],
+    [
+      "DGKC",
+      2023,
+      18,
+      -3635.9759999999997,
+      134713.254
+    ],
+    [
+      "DGKC",
+      2023,
+      19,
+      -3635.9759999999997,
+      64192.277
+    ],
+    [
+      "DGKC",
+      2023,
+      20,
+      -11343.33437356962,
+      106720.553
+    ],
+    [
+      "DGKC",
+      2023,
+      22,
+      -3635.9759999999997,
+      438.119118
+    ],
+    [
+      "DGKC",
+      2023,
+      24,
+      51.3,
+      -8.299058065756444
+    ],
+    [
+      "FCCL",
+      2023,
+      4,
+      -5352.356,
+      1
+    ],
+    [
+      "FCCL",
+      2024,
+      4,
+      -1081.3960000000006,
+      1
+    ]
+  ],
+  "dividend_means": [
+    {
+      "year": 2021,
+      "value": 0.0016960651289009497,
+      "count": 5,
+      "zero_count": 4,
+      "cell": "D216"
+    },
+    {
+      "year": 2022,
+      "value": 0.0032,
+      "count": 5,
+      "zero_count": 4,
+      "cell": "E216"
+    },
+    {
+      "year": 2023,
+      "value": 0.006895362868470953,
+      "count": 5,
+      "zero_count": 4,
+      "cell": "F216"
+    },
+    {
+      "year": 2024,
+      "value": 0.012038404723535814,
+      "count": 5,
+      "zero_count": 3,
+      "cell": "G216"
+    },
+    {
+      "year": 2025,
+      "value": 0.010264638440009737,
+      "count": 5,
+      "zero_count": 2,
+      "cell": "H216"
+    }
+  ],
+  "missing_calculations": [],
+  "ratio_formula_cells": 675,
+  "sample_mean_formula_cells": 135,
+  "basis": "Dividends attributable to the financial year, including proposed final dividends as in the existing project. Cash settlement of older declared liabilities is not a new current-year dividend. LUCK FY2023/FY2024 DPS18/15 retain the pre-April2025 split denomination compatible with their historical PSX prices; later report restatement3.6/3.0 is not substituted."
+}
