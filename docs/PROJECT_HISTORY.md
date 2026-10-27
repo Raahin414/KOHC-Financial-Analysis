@@ -41,3 +41,7 @@ Latest saved workbook: 5216acd762c8050d1cbdbece42f867b38c358b484b404772170098b58
 ## 10. docs: combine viva guide with company introductions and 17 ratio-driver cases
 
 Updated ten-page guide consolidates all27 formulas and latest peer values, methodologies, accounting caveats, inventory/current-quick gaps, numerator/denominator bridges, profits/tax, merger/split effects and dividend decisions. Source workbooks remain byte-for-byte unchanged.
+
+## 11. Portable checksum verification
+
+Explicit LF attributes for repository metadata and text dependency files preserve recorded SHA-256 checksums on Windows checkouts. Excel, PDF, Word and original PSX HTML bytes are unchanged.
