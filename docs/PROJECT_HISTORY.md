@@ -5,3 +5,7 @@ All commits were created during this repository import, in saved development ord
 ## 1. docs: initialize project and transparent milestone import history
 
 Create the project structure. The remote repository was created by the project owner; imported commits are made now, not retrospectively dated.
+
+## 2. history: import official PSX price and share-basis verification milestone
+
+Saved market-verification stage. The contemporary summary explicitly limits its scope; this is not the final full-project audit.
