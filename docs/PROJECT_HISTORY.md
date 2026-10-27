@@ -17,3 +17,7 @@ Saved full-audit stage before the later textbook-aligned scope change. The final
 ## 4. history: import forensic reconciliation and textbook-aligned 27 measures
 
 Transition to 27 selected measures, including all 19 mandatory ratios. The Audit preserves the earlier 63-case forensic investigation and current published-value reconciliation records.
+
+## 5. history: import verified zero-dividend presentation cleanup
+
+Saved dividend-verification stage. Genuine zero yields remain numeric and included in arithmetic means; no-dividend annotations distinguish them from missing observations.
