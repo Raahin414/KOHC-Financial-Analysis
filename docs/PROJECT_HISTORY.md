@@ -21,3 +21,7 @@ Transition to 27 selected measures, including all 19 mandatory ratios. The Audit
 ## 5. history: import verified zero-dividend presentation cleanup
 
 Saved dividend-verification stage. Genuine zero yields remain numeric and included in arithmetic means; no-dividend annotations distinguish them from missing observations.
+
+## 6. history: import removal of vertical and horizontal analysis
+
+Saved structural cleanup of the submission workbook. The internal Audit retains historical verification records.
