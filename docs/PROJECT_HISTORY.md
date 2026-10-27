@@ -29,3 +29,7 @@ Saved structural cleanup of the submission workbook. The internal Audit retains 
 ## 7. history: import 54 ratio charts and centralized methodology notes
 
 Saved stage with one five-company and one KOHC-versus-sample-average chart for each of 27 measures; repetitive company-sheet notes were centralized.
+
+## 8. presentation: import decluttered workbook and complete financial analysis report
+
+Saved presentation-only revision and comprehensive 41-page Word/PDF report. The reusable decluttering skill and read-only validator are retained. The presentation review explicitly discloses the existing KOHC accrued-markup classification issue.
