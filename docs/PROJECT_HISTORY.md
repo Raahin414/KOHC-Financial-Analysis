@@ -9,3 +9,7 @@ Create the project structure. The remote repository was created by the project o
 ## 2. history: import official PSX price and share-basis verification milestone
 
 Saved market-verification stage. The contemporary summary explicitly limits its scope; this is not the final full-project audit.
+
+## 3. history: import full financial audit and 33-measure model
+
+Saved full-audit stage before the later textbook-aligned scope change. The final project does not retain 33 measures.
