@@ -1,0 +1,20 @@
+{
+  "basis_headers_removed": 5,
+  "basis_text_cells_removed": 140,
+  "dividend_notes_preserved_and_relocated": 5,
+  "all_formulas_and_financial_values_preserved": {
+    "formulas": 3159,
+    "numeric_inputs": 1808,
+    "cached_results": 3159,
+    "reviewed_text_changes": 145
+  },
+  "native_charts_preserved_byte_for_byte": 54,
+  "other_three_sheets_content_and_formatting_unchanged": true,
+  "hidden_FY2020_remains_column": "I",
+  "original_and_audit_unchanged": true,
+  "native_excel_full_rebuild_completed": true,
+  "source_sha256": "5216acd762c8050d1cbdbece42f867b38c358b484b404772170098b583af0f39",
+  "output_sha256": "52cff3a3165bca540b3c444cd3e2e9c16156e61bad9177badf24b069ef0f175f",
+  "native_excel_saved_output_reopened_successfully": true,
+  "all_five_company_ratio_tables_visually_reviewed": true
+}

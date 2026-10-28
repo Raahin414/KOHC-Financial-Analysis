@@ -52,8 +52,8 @@
     "sha256": "5a9c89267881e2ade174296d2162de25e354941b4e3c95948d70ba5467494990"
   },
   "docs/PROJECT_HISTORY.md": {
-    "bytes": 3050,
-    "sha256": "aeec26cdba9945fd888f853b26989b00586ccc08f162ab3a817be57930d6382e"
+    "bytes": 3615,
+    "sha256": "1bc9a3f40453af4c6d41adc498820345a50b8fba42e3ed01f4f553386dfe7d36"
   },
   "docs/Viva_Guide.md": {
     "bytes": 24150,
@@ -107,6 +107,10 @@
     "bytes": 1119,
     "sha256": "5b7cd1b936084450413d07720564ac33a96809c2db4a3dbd2ec30cf45d68bbf9"
   },
+  "evidence/validation/Basis_Removal_Verification.json": {
+    "bytes": 810,
+    "sha256": "f3d837f81f614b4d36d39f2b4ed6061de0f0f781340242ccfa16dc458c02c7be"
+  },
   "evidence/validation/Comprehensive_Report_Verification.json": {
     "bytes": 544,
     "sha256": "61db356e6115022c87373b6f2bc441a1b16a3f1788403c30d6c1169282528e05"
@@ -128,8 +132,8 @@
     "sha256": "85e18d76c56a563d01fea9ca928e68f4cc8ee5614c63d4e32d9d5885867b6b4e"
   },
   "README.md": {
-    "bytes": 4798,
-    "sha256": "d3a2e6bd106699c5414742a05e6cd70cdff604e187b49e827f0d848645cfe8dc"
+    "bytes": 5159,
+    "sha256": "aede660fb0738e8efcfec6579fb4578f3a42ada075d59aae6d6dcbbe7626a402"
   },
   "requirements.txt": {
     "bytes": 40,
@@ -148,7 +152,7 @@
     "sha256": "2d96d0cd32cf19ba8b9963938efff111e23b5b2fccb0d802b159f53560b576a5"
   },
   "workbooks/KOHC_Financial_Analysis_FINAL_SUBMISSION.xlsx": {
-    "bytes": 263778,
-    "sha256": "5216acd762c8050d1cbdbece42f867b38c358b484b404772170098b583af0f39"
+    "bytes": 264246,
+    "sha256": "52cff3a3165bca540b3c444cd3e2e9c16156e61bad9177badf24b069ef0f175f"
   }
 }

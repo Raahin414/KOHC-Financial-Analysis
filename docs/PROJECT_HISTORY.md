@@ -45,3 +45,7 @@ Updated ten-page guide consolidates all27 formulas and latest peer values, metho
 ## 11. Portable checksum verification
 
 Explicit LF attributes for repository metadata and text dependency files preserve recorded SHA-256 checksums on Windows checkouts. Excel, PDF, Word and original PSX HTML bytes are unchanged.
+
+## 12. Remove company Basis columns
+
+28 October 2026: remove the Basis headers and explanatory text from all five company ratio tables. Retain the existing year addresses by collapsing the former column into the Formula display. Move verified no-dividend year annotations beside the Dividend Yield formula. All3159 formulas,1808 numeric inputs, cached results,135 sample means and54 native charts are preserved; the Audit and three other worksheets remain unchanged. Native Excel recalculation, saved-file reopening, numerical comparison and layout checks passed.

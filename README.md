@@ -15,6 +15,10 @@ Introduction to Business Finance project comparing **Kohat Cement (KOHC)** with 
 - [Official-source evidence](evidence/SOURCES.md)
 - [Project milestone history](docs/PROJECT_HISTORY.md)
 
+## Latest presentation update
+
+28 October 2026: Basis headers and explanations were removed from all five company ratio tables. Verified no-dividend notes remain beside the Dividend Yield formula. Year addresses and hidden FY2020 column I are unchanged. No financial formula, input, saved result, sample mean or chart changed. The internal Audit is unchanged.
+
 ## Current scope and methodology
 
 The latest model retains **27 selected measures, including all 19 mandatory ratios**, 675 company-year ratio calculations, 135 equal-weight sample averages and **54 charts** (a five-company chart and a KOHC-versus-calculated-average chart for every measure). Audited unconsolidated accounts are used consistently. Inventory/receivables use opening-closing averages; asset and return denominators follow the disclosed closing convention. FY2020 openings remain in hidden column I. Vertical and Horizontal Analysis are absent from the submission.
